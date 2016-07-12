@@ -11,5 +11,5 @@ window.onload = function() {
 	    source.setAttribute('src', 'http://www.w3schools.com/html/mov_bbb.ogg'); 
 	    video.load();
 	    video.play();
-	}, 10000);
+	}, 330000);
 	};
